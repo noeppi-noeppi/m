@@ -8,6 +8,5 @@ Add it to your project (gradle):
 maven {
     name = 'noeppi_noeppi'
     url = 'https://noeppi-noeppi.github.io/m'
-
 }
 ```
