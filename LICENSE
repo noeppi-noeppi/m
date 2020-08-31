@@ -1,0 +1,5 @@
+This is neppi_noeppi's maven repository. It contains prebuilt code. Any maven ressource that has
+an explicit license in it's pom-file as described here: https://maven.apache.org/pom.html is licensed
+under that license. For everything in this repository that is either not a maven resource or has no
+license specified in it's pom-file all rights are reserved.
+
